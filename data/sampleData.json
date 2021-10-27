@@ -1,0 +1,98 @@
+{
+    "airlines": [
+        {
+            "code": "AC",
+            "name": "Air Canada"
+        }
+    ],
+    "airports": [
+        {
+            "code": "YUL",
+            "city_code": "YMQ",
+            "name": "Pierre Elliott Trudeau International",
+            "city": "Montreal",
+            "country_code": "CA",
+            "region_code": "QC",
+            "latitude": 45.457714,
+            "longitude": -73.749908,
+            "timezone": "America/Montreal"
+        },
+        {
+            "code": "YVR",
+            "city_code": "YVR",
+            "name": "Vancouver International",
+            "city": "Vancouver",
+            "country_code": "CA",
+            "region_code": "BC",
+            "latitude": 49.194698,
+            "longitude": -123.179192,
+            "timezone": "America/Vancouver"
+        },
+        {
+            "code": "YCC",
+            "city_code": "CYCC",
+            "name": "Cornwal Regional",
+            "city": "Cornwall",
+            "country_code": "CA",
+            "region_code": "ON",
+            "latitude": 45.099167,
+            "longitude": -74.568611,
+            "timezone": "America/Montreal"
+        }
+    ],
+    "flights": [
+        {
+            "airline": "AC",
+            "number": "301",
+            "departure_airport": "YUL",
+            "departure_time": "07:35",
+            "arrival_airport": "YVR",
+            "arrival_time": "10:05",
+            "price": "273.23"
+        },
+        {
+            "airline": "AC",
+            "number": "302",
+            "departure_airport": "YVR",
+            "departure_time": "11:30",
+            "arrival_airport": "YUL",
+            "arrival_time": "19:11",
+            "price": "220.63"
+        },{
+            "airline": "AC",
+            "number": "317",
+            "departure_airport": "YUL",
+            "departure_datetime": "07:35",
+            "arrival_airport": "YCC",
+            "arrival_datetime": "09:30",
+            "price": "86.42"
+        },
+        {
+            "airline": "AC",
+            "number": "318",
+            "departure_airport": "YCC",
+            "departure_datetime": "10:10",
+            "arrival_airport": "YVR",
+            "arrival_datetime": "10:38",
+            "price": "286.23"
+        },
+        {
+            "airline": "AC",
+            "number": "346",
+            "departure_airport": "YVR",
+            "departure_datetime": "11:30",
+            "arrival_airport": "YCC",
+            "arrival_datetime": "18:35",
+            "price": "275.41"
+        },
+        {
+            "airline": "AC",
+            "number": "347",
+            "departure_airport": "YCC",
+            "departure_datetime": "19:15",
+            "arrival_airport": "YUL",
+            "arrival_datetime": "19:46",
+            "price": "150.56"
+        }
+    ]
+}

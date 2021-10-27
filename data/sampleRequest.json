@@ -1,0 +1,9 @@
+{
+    "request": {
+        "departure_airport": "YUL",
+        "arrival_airport": "YVR",
+        "departure_date": "2021-02-01",
+        "return_date": "2021-02-20",
+        "trip_type": "round-trip"
+    }
+}
