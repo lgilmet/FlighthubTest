@@ -1,5 +1,8 @@
 <?php
 // $requestData = json_decode(file_get_contents("data/sampleRequest.json"), true);
+echo $_POST["time"];
+echo "<br>";
+echo $_POST["destination"];
 
 function indexAirports($sampleData) {
     $airmap = [];
