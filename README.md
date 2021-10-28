@@ -1,4 +1,21 @@
-# Trip Builder Test
+# How to test this app
+
+## Project Set Up
+
+- Install Xampp and start Apache server.
+
+- Download from git into the `C:\xampp\htdocs\` or corresponding folder.
+
+## Run Project
+
+- To access the site, open this link in your browser. http://localhost/FlighthubTest/QueryUser.php 
+
+- Accept preselected values and click the "Search for flights" button. 
+
+- A JSON file is created by the program and can be found at `C:\xampp\htdocs\FlighthubTest\data\response.json`
+
+
+# Trip Builder Test Instruction
 
 ## Outline 
 An airline has a name and is identified by a IATA Airline Code.
