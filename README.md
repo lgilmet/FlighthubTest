@@ -14,6 +14,12 @@
 
 - A JSON file is created by the program and can be found at `C:\xampp\htdocs\FlighthubTest\data\response.json`
 
+## Limitations
+
+There are a few limitations in the API. It does not take in dates for flights and only calculates round trips. I focused on round trips with many flights as it was the main challenge. The API does not take in a JSON request at the moment but it could. Instead I made it so you can choose different cities to find flights between. 
+
+Currently the API finds all the combinations of flights to complete a round trip regardless of distance or times. 
+
 
 # Trip Builder Test Instruction
 
