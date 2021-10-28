@@ -2,9 +2,81 @@
     "response": {
         "trips": [
             {
-                "price": 493.86,
+                "price": 593.28,
                 "flights": [
                     [
+                        {
+                            "airline": "AC",
+                            "number": "318",
+                            "departure_airport": "YCC",
+                            "departure_time": "10:10",
+                            "arrival_airport": "YVR",
+                            "arrival_time": "10:38",
+                            "price": "286.23"
+                        }
+                    ],
+                    [
+                        {
+                            "airline": "AC",
+                            "number": "302",
+                            "departure_airport": "YVR",
+                            "departure_time": "11:30",
+                            "arrival_airport": "YUL",
+                            "arrival_time": "19:11",
+                            "price": "220.63"
+                        },
+                        {
+                            "airline": "AC",
+                            "number": "317",
+                            "departure_airport": "YUL",
+                            "departure_time": "07:45",
+                            "arrival_airport": "YCC",
+                            "arrival_time": "09:30",
+                            "price": "86.42"
+                        }
+                    ]
+                ]
+            },
+            {
+                "price": 561.6400000000001,
+                "flights": [
+                    [
+                        {
+                            "airline": "AC",
+                            "number": "318",
+                            "departure_airport": "YCC",
+                            "departure_time": "10:10",
+                            "arrival_airport": "YVR",
+                            "arrival_time": "10:38",
+                            "price": "286.23"
+                        }
+                    ],
+                    [
+                        {
+                            "airline": "AC",
+                            "number": "346",
+                            "departure_airport": "YVR",
+                            "departure_time": "11:30",
+                            "arrival_airport": "YCC",
+                            "arrival_time": "18:35",
+                            "price": "275.41"
+                        }
+                    ]
+                ]
+            },
+            {
+                "price": 730.84,
+                "flights": [
+                    [
+                        {
+                            "airline": "AC",
+                            "number": "347",
+                            "departure_airport": "YCC",
+                            "departure_time": "19:15",
+                            "arrival_airport": "YUL",
+                            "arrival_time": "19:46",
+                            "price": "150.56"
+                        },
                         {
                             "airline": "AC",
                             "number": "301",
@@ -24,6 +96,15 @@
                             "arrival_airport": "YUL",
                             "arrival_time": "19:11",
                             "price": "220.63"
+                        },
+                        {
+                            "airline": "AC",
+                            "number": "317",
+                            "departure_airport": "YUL",
+                            "departure_time": "07:45",
+                            "arrival_airport": "YCC",
+                            "arrival_time": "09:30",
+                            "price": "86.42"
                         }
                     ]
                 ]
@@ -34,6 +115,15 @@
                     [
                         {
                             "airline": "AC",
+                            "number": "347",
+                            "departure_airport": "YCC",
+                            "departure_time": "19:15",
+                            "arrival_airport": "YUL",
+                            "arrival_time": "19:46",
+                            "price": "150.56"
+                        },
+                        {
+                            "airline": "AC",
                             "number": "301",
                             "departure_airport": "YUL",
                             "departure_time": "07:35",
@@ -51,96 +141,6 @@
                             "arrival_airport": "YCC",
                             "arrival_time": "18:35",
                             "price": "275.41"
-                        },
-                        {
-                            "airline": "AC",
-                            "number": "347",
-                            "departure_airport": "YCC",
-                            "departure_time": "19:15",
-                            "arrival_airport": "YUL",
-                            "arrival_time": "19:46",
-                            "price": "150.56"
-                        }
-                    ]
-                ]
-            },
-            {
-                "price": 593.28,
-                "flights": [
-                    [
-                        {
-                            "airline": "AC",
-                            "number": "317",
-                            "departure_airport": "YUL",
-                            "departure_time": "07:45",
-                            "arrival_airport": "YCC",
-                            "arrival_time": "09:30",
-                            "price": "86.42"
-                        },
-                        {
-                            "airline": "AC",
-                            "number": "318",
-                            "departure_airport": "YCC",
-                            "departure_time": "10:10",
-                            "arrival_airport": "YVR",
-                            "arrival_time": "10:38",
-                            "price": "286.23"
-                        }
-                    ],
-                    [
-                        {
-                            "airline": "AC",
-                            "number": "302",
-                            "departure_airport": "YVR",
-                            "departure_time": "11:30",
-                            "arrival_airport": "YUL",
-                            "arrival_time": "19:11",
-                            "price": "220.63"
-                        }
-                    ]
-                ]
-            },
-            {
-                "price": 798.6200000000001,
-                "flights": [
-                    [
-                        {
-                            "airline": "AC",
-                            "number": "317",
-                            "departure_airport": "YUL",
-                            "departure_time": "07:45",
-                            "arrival_airport": "YCC",
-                            "arrival_time": "09:30",
-                            "price": "86.42"
-                        },
-                        {
-                            "airline": "AC",
-                            "number": "318",
-                            "departure_airport": "YCC",
-                            "departure_time": "10:10",
-                            "arrival_airport": "YVR",
-                            "arrival_time": "10:38",
-                            "price": "286.23"
-                        }
-                    ],
-                    [
-                        {
-                            "airline": "AC",
-                            "number": "346",
-                            "departure_airport": "YVR",
-                            "departure_time": "11:30",
-                            "arrival_airport": "YCC",
-                            "arrival_time": "18:35",
-                            "price": "275.41"
-                        },
-                        {
-                            "airline": "AC",
-                            "number": "347",
-                            "departure_airport": "YCC",
-                            "departure_time": "19:15",
-                            "arrival_airport": "YUL",
-                            "arrival_time": "19:46",
-                            "price": "150.56"
                         }
                     ]
                 ]

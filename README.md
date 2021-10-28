@@ -10,7 +10,7 @@
 
 - To access the site, open this link in your browser. http://localhost/FlighthubTest/QueryUser.php 
 
-- Accept preselected values and click the "Search for flights" button. 
+- Choose origin city and destination city and click the "Search for flights" button. 
 
 - A JSON file is created by the program and can be found at `C:\xampp\htdocs\FlighthubTest\data\response.json`
 

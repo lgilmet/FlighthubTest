@@ -175,6 +175,8 @@ function getRoutes()
     $fp = fopen('response.json', 'w');
     fwrite($fp, json_encode($response, JSON_PRETTY_PRINT));
     fclose($fp);
+
+    echo "Response data found at FlighthubTest/data/response.json";
 }
 
 getRoutes();
